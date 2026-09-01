@@ -9,7 +9,7 @@ This course is devoted to Gerhard Gentzen’s work and its place in the developm
 
 I recommend the entries on [Proof Theory](https://plato.stanford.edu/entries/proof-theory/), [Hilbert's Programme](https://plato.stanford.edu/entries/hilbert-program/), and the [Development of Proof Theory](https://plato.stanford.edu/entries/proof-theory-development/) in the *Stanford Encyclopedia of Philosophy*.
 
-### Literature
+### References
 
 The collected papers of Gerhard Gentzen can be found [here](https://www.sciencedirect.com/bookseries/studies-in-logic-and-the-foundations-of-mathematics/vol/55/suppl/C).
 
