@@ -26,3 +26,7 @@ Paul Bernays, [*On the original Gentzen consistency proof for number theory*](ht
 Anna Horská, [*Where is the Gödel-point hiding: Gentzen’s Consistency Proof of 1936 and His Representation of Constructive Ordinals*](https://link.springer.com/book/10.1007/978-3-319-02171-3)
 
 Yuta Takahashi, [*On the intuitionistic background of Gentzen's 1935 and 1936 consistency proofs and their philosophical aspects*](https://www.jstage.jst.go.jp/article/jafpos/27/0/27_1/_article)
+
+Reinhard Kahle, [*Hilbert's programme and Georg Kreisel I*](https://link.springer.com/article/10.1007/s11245-025-10337-7)
+
+Saunders Mac Lane, [*Mathematics at Göttingen under the Nazis*](https://www.ams.org/notices/199510/maclane.pdf)
