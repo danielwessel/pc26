@@ -13,6 +13,8 @@ I recommend the entries on [Proof Theory](https://plato.stanford.edu/entries/pro
 
 The collected papers of Gerhard Gentzen can be found [here](https://www.sciencedirect.com/bookseries/studies-in-logic-and-the-foundations-of-mathematics/vol/55/suppl/C).
 
+Gerhard Gentzen, [*Die Widerspruchsfreiheit der reinen Zahlentheorie*](https://gdz.sub.uni-goettingen.de/id/PPN235181684_0112?tify=%7B%22view%22:%22info%22,%22pages%22:%5B497%5D%7D)
+
 Jan von Plato, [*Saved from the Cellar*](https://link.springer.com/book/10.1007/978-3-319-42120-9)
 
 Reinhard Kahle and Michael Rathjen (eds.), [*Gentzen's Centenary*](https://link.springer.com/book/10.1007/978-3-319-10103-3)
@@ -22,3 +24,5 @@ Eckart Menzler-Trott, [*Logic's Lost Genius: The Life of Gerhard Gentzen*](https
 Paul Bernays, [*On the original Gentzen consistency proof for number theory*](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0049237X08707675)
 
 Anna Horská, [*Where is the Gödel-point hiding: Gentzen’s Consistency Proof of 1936 and His Representation of Constructive Ordinals*](https://link.springer.com/book/10.1007/978-3-319-02171-3)
+
+Yuta Takahashi, [*On the intuitionistic background of Gentzen's 1935 and 1936 consistency proofs and their philosophical aspects*](https://www.jstage.jst.go.jp/article/jafpos/27/0/27_1/_article)
