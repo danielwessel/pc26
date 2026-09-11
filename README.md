@@ -17,6 +17,8 @@ Gerhard Gentzen, [*Die Widerspruchsfreiheit der reinen Zahlentheorie*](https://g
 
 Jan von Plato, [*Saved from the Cellar*](https://link.springer.com/book/10.1007/978-3-319-42120-9)
 
+Jan von Plato, [*Gentzen's proof systems: byproducts in a work of genius*](https://www.jstor.org/stable/41575874)
+
 Reinhard Kahle and Michael Rathjen (eds.), [*Gentzen's Centenary*](https://link.springer.com/book/10.1007/978-3-319-10103-3)
 
 Eckart Menzler-Trott, [*Logic's Lost Genius: The Life of Gerhard Gentzen*](https://bookstore.ams.org/hmath-33)
@@ -29,6 +31,14 @@ Yuta Takahashi, [*On the intuitionistic background of Gentzen's 1935 and 1936 co
 
 Timothy Chow, [*The consistency of arithmetic*](https://link.springer.com/article/10.1007/s00283-018-9837-z)
 
+Michael Rathjen, [*The art of measuring the strength of theories*](https://www.ams.org/notices/202307/rnoti-p1071.pdf)
+
 Reinhard Kahle, [*Hilbert's programme and Georg Kreisel I*](https://link.springer.com/article/10.1007/s11245-025-10337-7)
 
+Curtis Franks, [*Gentzen's Logical Calculi (the theory pamphlet)*](https://link.springer.com/book/10.1007/978-3-031-91999-2)
+
 Saunders Mac Lane, [*Mathematics at Göttingen under the Nazis*](https://www.ams.org/notices/199510/maclane.pdf)
+
+Richard Courant, [*Reminiscences from Hilbert's Göttingen*](https://link.springer.com/article/10.1007/BF03022974)
+
+Richard Zach, [*The Significance of the Curry-Howard Isomorphism*](https://richardzach.org/2019/11/the-significance-of-the-curry-howard-isomorphism/)
