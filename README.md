@@ -34,3 +34,5 @@ Reinhard Kahle, [*Hilbert's programme and Georg Kreisel I*](https://link.springe
 Saunders Mac Lane, [*Mathematics at Göttingen under the Nazis*](https://www.ams.org/notices/199510/maclane.pdf)
 
 Richard Courant, [*Reminiscences from Hilbert's Göttingen*](https://link.springer.com/article/10.1007/BF03022974)
+
+Craig Smorynski, [*Playwright Gerhard Gentzen*](https://academic.oup.com/logcom/article-abstract/35/7/exad041/7193652?redirectedFrom=fulltext)
