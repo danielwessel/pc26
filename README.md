@@ -3,7 +3,7 @@
 **[Proof & Computation 2026](https://www.mathematik.uni-muenchen.de/~schwicht/pc26.php)**  
 Fischbachau, September 13–19
 
-This course is devoted to Gerhard Gentzen’s work and its place in the development of modern proof theory. We will discuss Gentzen’s contributions against the background of Hilbert’s programme, with particular attention to his first consistency proof. A further focus will be on Gentzen’s unpublished manuscripts. These documents provide a glimpse into the development of his ideas beyond the published record and raise questions about the historical reconstruction of mathematical research.
+This course is devoted to Gerhard Gentzen’s work and its place in the development of modern proof theory. We will discuss Gentzen’s contributions against the background of Hilbert’s programme, with particular attention to his first consistency proof. A further focus will be on Gentzen’s unpublished manuscripts. These documents provide a glimpse into the development of his ideas beyond the published record.
 
 ### Recommended reading
 
@@ -11,7 +11,7 @@ I recommend the entries on [Proof Theory](https://plato.stanford.edu/entries/pro
 
 ### References
 
-The collected papers of Gerhard Gentzen can be found [here](https://www.sciencedirect.com/bookseries/studies-in-logic-and-the-foundations-of-mathematics/vol/55/suppl/C).
+The collected papers of Gerhard Gentzen can be found [here](https://www.sciencedirect.com/bookseries/studies-in-logic-and-the-foundations-of-mathematics/vol/55/suppl/C) and [there](https://logic-teaching.github.io/prop/texts/Gentzen%201969%20-%20Investigations%20into%20Logical%20Deduction.pdf).
 
 Paul Bernays, [*On the original Gentzen consistency proof for number theory*](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0049237X08707675)
 
