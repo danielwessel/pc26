@@ -13,17 +13,13 @@ I recommend the entries on [Proof Theory](https://plato.stanford.edu/entries/pro
 
 The collected papers of Gerhard Gentzen can be found [here](https://www.sciencedirect.com/bookseries/studies-in-logic-and-the-foundations-of-mathematics/vol/55/suppl/C).
 
-Gerhard Gentzen, [*Die Widerspruchsfreiheit der reinen Zahlentheorie*](https://gdz.sub.uni-goettingen.de/id/PPN235181684_0112?tify=%7B%22view%22:%22info%22,%22pages%22:%5B497%5D%7D)
+Paul Bernays, [*On the original Gentzen consistency proof for number theory*](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0049237X08707675)
 
 Jan von Plato, [*Saved from the Cellar*](https://link.springer.com/book/10.1007/978-3-319-42120-9)
-
-Jan von Plato, [*Gentzen's proof systems: byproducts in a work of genius*](https://www.jstor.org/stable/41575874)
 
 Reinhard Kahle and Michael Rathjen (eds.), [*Gentzen's Centenary*](https://link.springer.com/book/10.1007/978-3-319-10103-3)
 
 Eckart Menzler-Trott, [*Logic's Lost Genius: The Life of Gerhard Gentzen*](https://bookstore.ams.org/hmath-33)
-
-Paul Bernays, [*On the original Gentzen consistency proof for number theory*](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0049237X08707675)
 
 Anna Horská, [*Where is the Gödel-point hiding: Gentzen’s Consistency Proof of 1936 and His Representation of Constructive Ordinals*](https://link.springer.com/book/10.1007/978-3-319-02171-3)
 
@@ -35,10 +31,6 @@ Michael Rathjen, [*The art of measuring the strength of theories*](https://www.a
 
 Reinhard Kahle, [*Hilbert's programme and Georg Kreisel I*](https://link.springer.com/article/10.1007/s11245-025-10337-7)
 
-Curtis Franks, [*Gentzen's Logical Calculi (the theory pamphlet)*](https://link.springer.com/book/10.1007/978-3-031-91999-2)
-
 Saunders Mac Lane, [*Mathematics at Göttingen under the Nazis*](https://www.ams.org/notices/199510/maclane.pdf)
 
 Richard Courant, [*Reminiscences from Hilbert's Göttingen*](https://link.springer.com/article/10.1007/BF03022974)
-
-Richard Zach, [*The Significance of the Curry-Howard Isomorphism*](https://richardzach.org/2019/11/the-significance-of-the-curry-howard-isomorphism/)
