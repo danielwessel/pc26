@@ -5,6 +5,8 @@ Fischbachau, September 13–19
 
 This course is devoted to Gerhard Gentzen’s work and its place in the development of modern proof theory. We will discuss Gentzen’s contributions against the background of Hilbert’s programme, with particular attention to his first consistency proof. A further focus will be on Gentzen’s unpublished manuscripts. These documents provide a glimpse into the development of his ideas beyond the published record.
 
+For the related DFG Project see [here](https://gepris.dfg.de/project/554603079).
+
 ### Recommended reading
 
 I recommend the entries on [Proof Theory](https://plato.stanford.edu/entries/proof-theory/), [Hilbert's Programme](https://plato.stanford.edu/entries/hilbert-program/), and the [Development of Proof Theory](https://plato.stanford.edu/entries/proof-theory-development/) in the *Stanford Encyclopedia of Philosophy*.
